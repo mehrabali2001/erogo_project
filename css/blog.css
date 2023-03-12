@@ -48,9 +48,8 @@ body{
 }
 /* end section end */
 /* start navbar */
-.navbar ul li{
-    margin-left: 12px;
-}
+
+
 .navbar{
     position: absolute;
     top:80px;
@@ -60,6 +59,70 @@ body{
     transition: 2s;
     
   }
-  
+ 
+      #service{
+    background-color: rgb(238, 240, 243);
+    box-sizing: border-box;
+   
+    
+
+}
+#img-fluid{
+    margin-left: 20px;
+}
+.paragraph{
+    font-size: large;
+    font-weight: 20;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    forced-color-adjust: rgb(233, 172, 172);
+    word-wrap: break-word;
+    word-spacing: 2px;
+    
+}
+.btn{
+    text-align: center;
+    margin-left: 50px;
+    padding: 12px 20px;
+}
+/* modules start */
+.modules li{
+    margin-bottom: 15px;
+    padding: 0 0 0 20px;
+    position: relative;
+    margin-top:40px;
+    top: 100px;
+    font-size: medium;
+
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+
+}
+#cases{
+   background-color: rgb(201, 219, 235);
+   box-sizing: border-box; 
+   border-radius: 40px;
+   width: 1000px;
+   height: 500px;
+   align-items: center;
+   margin-left: 250px;
+
+
+}
+/* start features */
+#features{
+    background-color: whitesmoke;
+    box-shadow: inset;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 3px 4px;
+    
+}
+/* End features */
+/* modules end */
+
 
    
