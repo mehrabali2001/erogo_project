@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+/* end section start */
+#claim{
+    background: #c0bba3;
+    padding: 4px 4px;
+}
+#claim h2{
+    font-weight: bolder;
+    margin-left: 19px;
+    padding-left:10px ;
+    font-size: larger;
+    color: #070502;
+    text-align: center;
+
+ }
+ 
+
+
+.discount_header {
+    color: #000;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 9px;
+    
+}
+.Ebook{
+    color: rgb(221, 153, 153);
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: calc();
+    
+}
+.claim_buttion {
+    color: hsl(252, 96%, 45%);
+    border: 1px solid #5617e9;
+    background: none;
+    border-radius: 25px;
+    padding: 5px 15px;
+    font-size: 15px;
+    margin-top: 3px;
+    align-items: end;
+
+}
+/* end section end */
+/* start navbar */
+
+
+
+   
