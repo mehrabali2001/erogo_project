@@ -48,7 +48,18 @@ body{
 }
 /* end section end */
 /* start navbar */
-
-
+.navbar ul li{
+    margin-left: 12px;
+}
+.navbar{
+    position: absolute;
+    top:80px;
+    left: 0px;
+    right: 0px;
+    z-index: 2; 
+    transition: 2s;
+    
+  }
+  
 
    
