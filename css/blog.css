@@ -27,7 +27,8 @@
     background: #F15162;
 }
 .brand_logo{
-    margin-right: 50px;
+    margin-right: 80px;
+    width: 200px;
 }
 .nav-link {
     color: #fff;
@@ -73,5 +74,21 @@
  background: #fff;
  color: #F15162;
 }
-.corporate_area_right{}
-.corporate_area_right img{}
+/* start case area */
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+
+}
+#cases{
+   background-color: rgb(236, 240, 244);
+   box-sizing: border-box; 
+   border-radius: 40px;
+   width: 1000px;
+   height: 500px;
+   align-items: center;
+   margin-left: 250px;
+
+
+}
+/* end case area */
